@@ -3,7 +3,9 @@
 ## Amazon Review Management
 
 Data: Amazon Musical Instruments Reviews
+
 Summarization approaches: Extractive summarization and abstractive summarization 
+
 Classification approaches: Fasttext, Naive Bayes, XGBoost, SVM
 
 ### Summary
